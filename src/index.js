@@ -1,2 +1,2 @@
-const answer = 42;
-export default answer;
+export {default as _concat} from './_concat.js';
+export {default as concat} from './concat.js';

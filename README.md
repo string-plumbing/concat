@@ -1,15 +1,14 @@
 :dango: [@string-plumbing/concat](https://string-plumbing.github.io/concat)
 ==
 
-Concatenate an Iterable of strings for JavaScript.
+Concatenate an Iterable of strings with JavaScript.
 See [docs](https://string-plumbing.github.io/concat/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
+```js
+import {concat} from '@string-plumbing/concat';
 
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+concat(['c', 'o', 'n', 'c', 'a', 't']); // 'concat'
+```
 
 [![License](https://img.shields.io/github/license/string-plumbing/concat.svg)](https://raw.githubusercontent.com/string-plumbing/concat/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-plumbing/concat.svg)](https://www.npmjs.org/package/@string-plumbing/concat)

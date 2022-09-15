@@ -67,13 +67,16 @@
     "test:module": "IMPORT_MAP_PATH=test/import-maps/dist/index.module.json npm run test-cmd",
     "test:src": "IMPORT_MAP_PATH=test/import-maps/src/index.json npm run test-cmd"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@string-plumbing/join": "^0.1.1"
+  },
   "devDependencies": {
     "@babel/core": "7.19.0",
     "@babel/plugin-transform-destructuring": "7.18.13",
     "@babel/plugin-transform-for-of": "7.18.8",
     "@babel/preset-env": "7.19.0",
     "@commitlint/cli": "17.1.2",
+    "@functional-abstraction/type": "^2.0.1",
     "@js-library/commitlint-config": "0.0.4",
     "@node-loader/babel": "2.0.1",
     "@node-loader/core": "2.0.0",
