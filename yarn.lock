@@ -1169,7 +1169,7 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@functional-abstraction/type@^2.0.1":
+"@functional-abstraction/type@2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@functional-abstraction/type/-/type-2.0.1.tgz#d833a1eaf8cf2130d506c0bb6258ae8452093aa5"
   integrity sha512-ix2LiRc1ZY//fLF0Q2mQMcNd9I+iHIVbWj62jDkTWvHMqoLKyQdjHoPbqdmJxc5mc6Wka7I6MU8gUYIstMBjYg==
