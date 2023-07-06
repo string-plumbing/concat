@@ -71,10 +71,10 @@
     "@string-plumbing/join": "^0.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.22.6",
+    "@babel/core": "7.22.8",
     "@babel/plugin-transform-destructuring": "7.22.5",
     "@babel/plugin-transform-for-of": "7.22.5",
-    "@babel/preset-env": "7.22.6",
+    "@babel/preset-env": "7.22.7",
     "@commitlint/cli": "17.6.6",
     "@functional-abstraction/type": "2.0.1",
     "@js-library/commitlint-config": "0.0.4",
