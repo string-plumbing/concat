@@ -12,7 +12,7 @@ concat(['c', 'o', 'n', 'c', 'a', 't']); // 'concat'
 
 [![License](https://img.shields.io/github/license/string-plumbing/concat.svg)](https://raw.githubusercontent.com/string-plumbing/concat/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-plumbing/concat.svg)](https://www.npmjs.org/package/@string-plumbing/concat)
-[![Tests](https://img.shields.io/github/workflow/status/string-plumbing/concat/ci?event=push&label=tests)](https://github.com/string-plumbing/concat/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/string-plumbing/concat/ci.yml?branch=main&event=push&label=tests)](https://github.com/string-plumbing/concat/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/string-plumbing/concat.svg)](https://github.com/string-plumbing/concat/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/string-plumbing/concat.svg)](https://github.com/string-plumbing/concat/issues)
 [![Downloads](https://img.shields.io/npm/dm/@string-plumbing/concat.svg)](https://www.npmjs.org/package/@string-plumbing/concat)
